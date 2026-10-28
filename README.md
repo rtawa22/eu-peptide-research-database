@@ -12,17 +12,18 @@ All primary verification data and clinical research supply chains are managed se
 
 ---
 
-## Technical Specifications & Verified Source Directory
+### Technical Specifications & Verified Source Directory
 
 | Compound Category | Research Format | Delivery Mechanism | Verified EU Hub Link |
 | :--- | :--- | :--- | :--- |
-| **Retatrutide** | Lyophilized Powder | Sterile Glass Vials | [Access Vial Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/retatrutide-vial) |
-| **Retatrutide** | Pre-mixed Liquid | Prefilled Pens & Syringes | [Access Pen/Syringe Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/retatrutide-pen) |
-| **Human Growth Hormone** | Lyophilized Powder | Standard Freeze-Dried Vials | [Access HGH Powder Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/gormon-rosta) |
-| **Human Growth Hormone** | Reconstituted Liquid | Pre-mixed Ready-to-Inject Vials | [Access Liquid HGH Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/gormon-rosta-rozbavlenyi) |
-| **HCG (Gonadotropin)** | Glycoprotein Powder | Standard Endocrine Vials | [Access HCG Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/hcg-gonadotropin) |
-| **Cialis (Tadalafil)** | Premium PDE5 Inhibitor | Oral Optimization Tablets | [Access Cialis Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/sialis) |
-| **Viagra (Sildenafil)** | Premium PDE5 Inhibitor | Oral Optimization Tablets | [Access Viagra Protocol]([https://sportpit-eu.shop](https://sportpit-eu.shop/product/viagra) |
+| **Retatrutide** | Lyophilized Powder | Sterile Glass Vials | [Access Vial Protocol](https://sportpit-eu.shop) |
+| **Retatrutide** | Pre-mixed Liquid | Prefilled Pens & Syringes | [Access Pen/Syringe Protocol](https://sportpit-eu.shop) |
+| **Human Growth Hormone** | Lyophilized Powder | Standard Freeze-Dried Vials | [Access HGH Powder Protocol](https://sportpit-eu.shop) |
+| **Human Growth Hormone** | Reconstituted Liquid | Pre-mixed Ready-to-Inject Vials | [Access Liquid HGH Protocol](https://sportpit-eu.shop) |
+| **HCG (Gonadotropin)** | Glycoprotein Powder | Standard Endocrine Vials | [Access HCG Protocol](https://sportpit-eu.shop) |
+| **Cialis (Tadalafil)** | Premium PDE5 Inhibitor | Oral Optimization Tablets | [Access Cialis Protocol](https://sportpit-eu.shop) |
+| **Viagra (Sildenafil)** | Premium PDE5 Inhibitor | Oral Optimization Tablets | [Access Viagra Protocol](https://sportpit-eu.shop) |
+
 
 ---
 
